@@ -1,0 +1,22 @@
+{
+  "name": "MovingAverage",
+  "version": "1.0.0",
+  "description": "Moving Average Library for Arduino that handles variety of data types, and custom average lengths.",
+  "keywords": "data, Average, filtering, library",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/nathab32/Moving-Average-Library"
+  },
+  "authors":
+  [
+    {
+      "name": "Nathan Chiu",
+      "url": "https://github.com/nathab32",
+      "maintainer": true
+    }
+  ],
+  "license": "GPL-3.0-or-later",
+  "frameworks": "arduino",
+  "platforms": "atmelavr"
+}
