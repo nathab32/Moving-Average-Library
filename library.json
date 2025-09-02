@@ -1,6 +1,6 @@
 {
   "name": "MovingAverage",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Moving Average Library for Arduino that handles variety of data types, and custom average lengths.",
   "keywords": "data, Average, filtering, library",
   "repository":
